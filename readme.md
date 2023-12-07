@@ -8,6 +8,8 @@ Dataset & Code to be cited as:
 
 Sean Rehaag, "Refugee Protection Division (Legacy) Bulk Decisions Dataset" (2023), online: Refugee Law Laboratory <https://refugeelab.ca/bulk-data/rpd/>.
 
+To load data, see [load_and_analyze_rad_cases.ipynb](https://github.com/Refugee-Law-Lab/rpd_bulk_data/blob/main/load_and_analyze_rpd_cases.ipynb)
+
 Notes:
 
 (1) Data Source: In the fall of 2022 the Immigration and Refugee Board provided the RLL with a full backlog of approximately 116k published decisions from all divisions (RAD, RPD, ID, IAD). Because the IRB no longer regularly publishes RPD decisions, the dataset is no longer being updated, which is why we refer to the dataset as a legacy dataset. For more recent RPD decisions (obtained via Access to Information Requests), see the RLLR dataset.
