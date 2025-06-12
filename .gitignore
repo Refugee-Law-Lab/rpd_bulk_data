@@ -1,3 +1,5 @@
 DATA/*.jsonl
 DATA/*.parquet
 testing.ipynb
+
+.env
